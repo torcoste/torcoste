@@ -1,4 +1,4 @@
-## Hi there~! <img src="https://github.com/torcoste/torcoste/raw/master/images/hi.gif" width="24px"></h2>
+## Hi there! <img src="https://github.com/torcoste/torcoste/raw/master/images/hi.gif" width="24px"></h2>
 
 <a href="https://www.linkedin.com/in/victor-kostyuk/">
   <img align="left" alt="torcoste's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
