@@ -8,6 +8,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=torcoste&show_icons=true">
 
 ### About
-- Mobile Developer at [MuseScore](https://musescore.com)
+- Mobile Developer
 - Focused on React Native
 - Hackathoner
