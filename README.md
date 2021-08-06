@@ -8,6 +8,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=torcoste&show_icons=true">
 
 ### About
-- Mobile Developer
-- Focused on React Native
-- Hackathoner
+- Software Engineer
+- Focused on Front-end and Mobile apps using React and React Native
+- Inveterate Hackathoner (Covid, stop, please)
