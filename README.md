@@ -9,5 +9,6 @@
 
 ### About
 - Software Engineer
-- Focused on Front-end and Mobile apps using React and React Native
+- Focused on Front-End and Mobile apps
+- TypeScript, React, React Native, Svelte
 - Inveterate Hackathoner (Covid, stop, please)
