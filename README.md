@@ -10,6 +10,6 @@
 ### About
 - Software Engineer
 - Focused on Front-End and Mobile apps
-- Key skills: TypeScript, React, React Native, Svelte
-- Also worked with: Python (Django, Flask), Java/Swift (Android/iOS apps), MATLAB/Simulink, Delphi, AVR microcontrollers (C/C++, Pascal)
+- Key skills: TypeScript, React, React Native
+- Also worked with: Svelte, Python (Django, Flask), Java/Swift (Android/iOS apps), MATLAB/Simulink, Delphi, AVR microcontrollers (C/C++, Pascal)
 - Inveterate Hackathoner (Covid, stop, please)
