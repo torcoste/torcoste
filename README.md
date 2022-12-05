@@ -5,9 +5,8 @@
 <br />
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=torcoste&show_icons=true">
 
-### About
+### About me
 - Software Engineer
-- Focused on Front-End and Mobile apps
-- Key skills: TypeScript, React, React Native
-- Also worked with: Rust/WebAssembly, Svelte, Python (Django, Flask), Java/Swift (Android/iOS apps), MATLAB/Simulink, Delphi, AVR microcontrollers (C/C++, Pascal)
-- Inveterate Hackathoner (Covid, stop, please)
+- Key skills: Rust/WebAssembly, TypeScript, React, React Native
+- Also worked with: Svelte, Python (Django, Flask), Java/Swift (Android/iOS apps), MATLAB/Simulink, Pascal/Delphi, AVR microcontrollers (C, Pascal)
+- Inveterate Hackathoner
