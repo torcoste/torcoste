@@ -1,7 +1,5 @@
 ## Hi there! <img src="https://github.com/torcoste/torcoste/raw/master/images/hi.gif" width="24px" height="24px"></h2>
 
-<br />
-
 ### About me
 - Software Engineer
 - Key skills: Rust/WebAssembly, TypeScript, React, React Native
